@@ -10,4 +10,5 @@ This project's goal was to develop a programming language classifier within 8 ho
 
 Due to that, the code is suboptimal at times. Nonetheless, 82% accuracy was achieved and reasonable code readibility.
 
-To experiment with the model see [WorkingClassifier.ipynb](WorkingClassifier.ipynb)
+To experiment with the model see [Classifier.ipynb](Classifier.ipynb)
+

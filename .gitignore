@@ -1,6 +1,7 @@
 .envrc
 .ipynb_checkpoints
 .idea
-/Models/
-!/Models/rfc_20%/
+Models/*
+!Models/rfc_20%/
 */__pycache__/
+*.DS_Store
